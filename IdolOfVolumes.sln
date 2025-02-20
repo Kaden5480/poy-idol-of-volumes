@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdolOfVolumes", "IdolOfVolumes.csproj", "{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug-BepInEx|Any CPU = Debug-BepInEx|Any CPU
+		Release-BepInEx|Any CPU = Release-BepInEx|Any CPU
+		Debug-MelonLoader|Any CPU = Debug-MelonLoader|Any CPU
+		Release-MelonLoader|Any CPU = Release-MelonLoader|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Debug-BepInEx|Any CPU.ActiveCfg = Debug-BepInEx|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Debug-BepInEx|Any CPU.Build.0 = Debug-BepInEx|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Release-BepInEx|Any CPU.ActiveCfg = Release-BepInEx|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Release-BepInEx|Any CPU.Build.0 = Release-BepInEx|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Debug-MelonLoader|Any CPU.ActiveCfg = Debug-MelonLoader|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Debug-MelonLoader|Any CPU.Build.0 = Debug-MelonLoader|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Release-MelonLoader|Any CPU.ActiveCfg = Release-MelonLoader|Any CPU
+		{B3B7D5B1-96C0-4DD4-BA20-3DB9E21BD8D6}.Release-MelonLoader|Any CPU.Build.0 = Release-MelonLoader|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -20,7 +20,7 @@ mod which repurposes the idol of seeds into the idol of volumes.
 ## BepInEx
 If you haven't installed BepInEx yet, follow the install instructions here:
 - [Windows](https://github.com/Kaden5480/modloader-instructions#bepinex-windows)
-- [Linux](https://github.com/Kaden5480/modloader-instructions#bepinex-windows)
+- [Linux](https://github.com/Kaden5480/modloader-instructions#bepinex-linux)
 
 ### Idol Of Volumes
 - Download the latest BepInEx release

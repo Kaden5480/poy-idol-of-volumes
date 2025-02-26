@@ -7,6 +7,8 @@ A
 [Peaks of Yore](https://store.steampowered.com/app/2236070/)
 mod which repurposes the idol of seeds into the idol of volumes.
 
+![Idol Of Volumes Demo](assets/demo.gif)
+
 # Overview
 - [Installing](#installing)
     - [BepInEx](#bepinex)
